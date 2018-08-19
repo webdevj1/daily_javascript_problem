@@ -7,4 +7,4 @@ function revString(string){
     // 3) .join()           = semaj
 }
 
-console.log(revString('james'));
+revString('james');
