@@ -24,4 +24,4 @@ function letterCount(string){
     return object;
 }
 
-console.log(letterCount('testing'));
+letterCount('testing');
