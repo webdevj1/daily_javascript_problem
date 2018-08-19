@@ -24,4 +24,4 @@ function letterCount(string){
     return object;
 }
 
-letterCount('testing');
+letterCount('testing'); //{ t: 2, e: 1, s: 1, i: 1, n: 1, g: 1 }
