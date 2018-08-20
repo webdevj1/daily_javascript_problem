@@ -12,4 +12,4 @@ function sortLetters(string){
 
 }
 
-console.log(sortLetters('monday'));
+sortLetters('monday');
