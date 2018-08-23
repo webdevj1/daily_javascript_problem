@@ -14,4 +14,4 @@ function row2(array, num){
     return array;
   }
   
-  row2([1,2,3,4],2); // => [ 3, 4, 1, 2 ]
+  row2([1,2,3,4],2); // => [ 3, 4, 1, 2 ] 
